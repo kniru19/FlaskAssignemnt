@@ -1,0 +1,4 @@
+# Content to put inside the .gitignore file:
+.venv/
+__pycache__/
+.env
